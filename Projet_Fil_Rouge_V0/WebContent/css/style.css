@@ -1,0 +1,21 @@
+@charset "UTF-8";
+.carroussel img {
+	height: 150px;
+}
+.carroussel {
+	display: flex;
+	flex-direction: row;
+}
+.carroussel div {
+	width: 100px;
+	height: 200px;
+}
+.carroussel h2 {
+	font-size: 18px;
+}
+.selection img {
+	height: 400px;
+}
+.selection div {
+	display: inline-block;
+}
